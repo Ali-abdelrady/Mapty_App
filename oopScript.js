@@ -157,8 +157,6 @@ class App {
                 <span class="workout-value">${workout.elevation}</span>
                 <span class="workout-unit">m</span>
             </div>
-            <button class="btn edit" data-type = "edit"><i class="fa-solid fa-pencil"></i></button>
-            <button class="btn delete" data-type = "delete"><i class="fa-solid fa-trash"></i></button>
       </li>
         `;
 
